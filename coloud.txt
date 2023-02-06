@@ -1,0 +1,12 @@
+mef
+provider "aws"{ regin
+
+access key:
+
+scret key:
+}-Envirormrnt confi
+keeps access/seret id in
+the top of the file 
+terraform left empty
+resource "aws_s3_bucket" "the_bucketis_changed"{
+            bucket="demo_setId"},next creating instance -->resouce="aws_ instance" "the instance is ok"
